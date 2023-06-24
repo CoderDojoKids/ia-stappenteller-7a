@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="Rk+3OxkfA#Q]V}lK!|88" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="=FNO8~filH~u#7/,EG/L"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field></block></statement></block><block type="device_forever" id="K+wTC0xBxl/[e)h}1,[Q" x="65" y="395"><statement name="HANDLER"><block type="device_set_brightness" id="[s[k-r:MV:nXani85~7x"><value name="value"><shadow type="math_number_minmax"><mutation min="0" max="255" label="Value" precision="0"></mutation><field name="SLIDER">0</field></shadow><block type="math_arithmetic" id="Ub}eaw_O0{2[UfX}Z2wE"><field name="OP">DIVIDE</field><value name="A"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_acceleration" id="SKG;R@11fZotO|wXZlL;"><field name="NAME">Dimension.X</field></block></value><value name="B"><shadow type="math_number" id=":im,@__A$j6Jv0mA0BCK"><field name="NUM">4</field></shadow></value></block></value></block></statement></block></xml>
